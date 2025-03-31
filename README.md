@@ -1,0 +1,1 @@
+# JS-area-of-rectangle
